@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63f4d79a-de28-4169-8889-e6b0f4d4fb4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Module_11_introspection/module_11_inrospection.py" afterDir="false" />
+    <list default="true" id="63f4d79a-de28-4169-8889-e6b0f4d4fb4d" name="Changes" comment="Выполнено задание по теме &quot;Интроспекция&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_11_introspection/module_11_inrospection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module_11_introspection/module_11_inrospection.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,14 +101,27 @@
       <option name="presentableId" value="Default" />
       <updated>1726749731068</updated>
     </task>
+    <task id="LOCAL-00001" summary="Выполнено задание по теме &quot;Интроспекция&quot;">
+      <option name="closed" value="true" />
+      <created>1728570434134</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728570434134</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Выполнено задание по теме &quot;Интроспекция&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнено задание по теме &quot;Интроспекция&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Module_11_introspection/module_11_inrospection.py</url>
-          <line>14</line>
+          <line>25</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
